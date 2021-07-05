@@ -51,9 +51,29 @@ margin-left: 5% ;
 margin-right: 5%;
 padding-left: 10px;
 border-radius: 10px;
+padding-bottom: 40px;
+
 }
 .experiences-area{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
+}
+
+#baby-web{
+   
+        border-left: 7px solid;
+        border-image: linear-gradient( blue, cyan);
+        border-image-slice: 1;
+        
+}
+#full-web{
+    border-left: 7px solid;
+        border-image: linear-gradient( #F6735E, #F6735E);
+        border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
 }
